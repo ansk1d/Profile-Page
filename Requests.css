@@ -1,0 +1,43 @@
+.topReq{
+    background-color: rgba(36, 36, 36, 0.963);
+    display: flex;
+/* margin-right: auto;
+    margin-left: auto; */
+    align-items: center;
+    justify-content: space-evenly;
+    color: aliceblue;
+    font-size: large;
+}
+
+.Connections{
+    border: 2px rgb(181, 177, 177)   solid;
+
+}
+
+.fReq{
+    display: flex;
+    border: 2px rgb(181, 177, 177)   solid;
+    display: flex;
+justify-content: space-evenly;
+}
+.sReq{
+    display: flex;
+    border: 2px rgb(181, 177, 177)   solid;
+    justify-content: space-evenly;
+
+}
+
+.smallImg{
+    width: 30x;
+    height: 30px;
+}
+
+.numPic{
+    width: 30px;
+    height: 30px;
+}
+
+.btns{
+    width: 30px;
+    height: 30px;
+}

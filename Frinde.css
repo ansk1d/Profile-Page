@@ -1,0 +1,33 @@
+.ConnList {
+    display: flex;
+    /* justify-content: space-between; */
+    border: 2px rgb(181, 177, 177) solid;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: large;
+}
+
+.topConn {
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    /* border: 2px rgb(181, 177, 177)   solid; */
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgba(36, 36, 36, 0.963);
+    color: aliceblue;
+
+}
+
+.but {
+    /* background-color: rgb(44, 140, 224); */
+    color: white;
+    border: 2px rgb(181, 177, 177) solid;
+    height: 40px;
+    background-color: gainsboro;
+}
+
+/* 
+.but{
+    width: 100%;
+} */

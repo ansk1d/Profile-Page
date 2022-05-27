@@ -1,0 +1,72 @@
+*{
+    /* padding: 0%;
+margin: 0%; */
+/* justify-content: center; */
+/* margin-left: auto;
+margin-right: auto; */
+/* border:  red dotted; */
+}
+
+.bodyUserCard{
+/* height: 50px;
+width: 70px;
+border: 3px rgb(160, 141, 102) solid; */
+border: 2px rgb(181, 177, 177) solid;
+}
+
+
+.h2CardUser{
+    margin-left: 30px;
+}
+
+
+.topCard{
+background-color: cadetblue;
+width: auto;
+height:80px;
+}
+
+.mainPic{
+margin-top: -58px;
+width: 20%;
+margin-left: 30px;
+}
+
+.location{
+display: flex;
+/* margin-left: 30px; */
+display: inline-flex;
+margin-left: 10px;
+align-items: center;
+
+}
+
+.Disc{
+    margin-left: 30px;
+    text-align: left;
+/* font-size: large; */
+}
+
+.settings{
+display: flex;
+/* margin-left: 30px; */
+display: inline-flex;
+margin-left: 35px;
+align-items: center;
+
+}
+
+.iconL{
+    width: 25px;
+    height: 25px;
+    margin: 10px;
+    margin-left: 30px;
+}
+
+.iconS{
+    width: 25px;
+    height: 25x;
+    margin: 0px;
+    /* margin-top: 16px;
+    margin-left: 30px; */
+}
