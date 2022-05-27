@@ -11,6 +11,8 @@ align-items: center;
 
 .edu{
     border: 2px rgb(181, 177, 177) solid;
+    overflow: auto;
+
 }
 
 .topEDU > h2{
